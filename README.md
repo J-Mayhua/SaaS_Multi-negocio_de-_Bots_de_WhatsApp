@@ -112,32 +112,33 @@ Enfoque a nivel de concepto:
 - Hay verificaciones manuales con WhatsApp real y dos negocios de prueba documentadas por fase.
 
 ## Capturas de pantalla
-![Estructura del proyecto](images/estructura.png)
 *Estructura del codigo fuente el proyecto.*
+![Estructura del proyecto](images/estructura.png)
 
-![Panel principal](images/panel-inicio.png)
 *Inicio del panel del dueño: estado de WhatsApp y accesos principales.*
+![Panel principal](images/panel-inicio.png)
 
-![Conexión de WhatsApp](images/whatsapp-conexion.png)
 *Pantalla de vinculación con código QR de demostración.*
+![Conexión de WhatsApp](images/whatsapp-conexion.png)
 
-![Catálogo](images/catalogo.png)
 *Lista de productos con precio y disponibilidad (datos de ejemplo).*
+![Catálogo](images/catalogo.png)
 
-![Pedidos y avisos](images/pedidos.png)
 *Listado de pedidos y detalle de un pedido de prueba.*
+![Pedidos y avisos](images/pedidos.png)
 
-![Respuestas automáticas](images/respuestas.png)
 *Reglas de respuesta configurables.*
+![Respuestas automáticas](images/respuestas.png)
 
-![Pruebas con whatsap conectado 1](images/prueba1.png)
 *Prueba en tiempo real 1.*
+![Pruebas con whatsap conectado 1](images/prueba1.png)
 
+*Prueba en tiempo real 2.*
 ![Pruebas con whatsap conectado 2](images/prueba2.png)
-*RPrueba en tiempo real 2.*
 
-![Administración](docs/images/admin.png)
 *Listado de negocios con su estado de WhatsApp (datos de ejemplo).*
+![Administración](docs/images/admin.png)
+
 
 ## Roadmap
 
