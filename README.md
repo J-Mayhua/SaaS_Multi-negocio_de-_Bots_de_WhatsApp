@@ -137,7 +137,7 @@ Enfoque a nivel de concepto:
 ![Pruebas con whatsap conectado 2](images/prueba2.png)
 
 *Listado de negocios con su estado de WhatsApp (datos de ejemplo).*
-![Administración](docs/images/admin.png)
+![Administración](images/admin.png)
 
 
 ## Roadmap
